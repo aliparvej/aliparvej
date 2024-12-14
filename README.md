@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm currently learning Cloud and DevOps </h1>
-<h3 align="center">A passionate frontend developer and working on Data Structure and Algo</h3>
+<h3 align="center">A passionate with cloud role apart from working on DevOps role</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvejali1234&label=Profile%20views&color=0e75b6&style=flat" alt="parvejali1234" /> </p>
 
