@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://parvejali1234.github.io/portfolio.github.io/](https://parvejali1234.github.io/portfolio.github.io/)
 
-- 📫 How to reach me **parvej2917102gmail.com**
+- 📫 How to reach me **parvej291710@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
 
