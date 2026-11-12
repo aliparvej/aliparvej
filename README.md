@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://parvejali1234.github.io/portfolio.github.io/](https://parvejali1234.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://parvejali1234.github.io/portfolio.github.io/]
 
 - 📫 How to reach me **parvej291710@gmail.com**
 
